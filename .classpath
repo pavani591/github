@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jar/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="jar/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="jar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="jar/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jar/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="jar1/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="jar1/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="jar1/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="jar1/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="jar1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jar1/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="jar1/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="jar1/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="jar1/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="jar1/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="jar1/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="jar1/webdrivermanager-3.6.1.jar"/>
+	<classpathentry kind="lib" path="jar2/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="jar2/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="jar2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jar2/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="jar2/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="jar2/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="jar2/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="jar2/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="jar2/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="jar2/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="jar2/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="jar2/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
